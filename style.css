@@ -307,7 +307,7 @@ button:hover::after, button:focus::after {
  
 .header
 {
-    background: url('back1.jpg');
+    background: url('g5.jpg');
     filter: brightness(100%);
      width: 100%;
      height: 100vh;
@@ -386,9 +386,14 @@ button:hover::after, button:focus::after {
 
    .header 
             {
-              height: 100vh;
+              height: 50vh;
             }
-   .header h1 
+  #white_box
+             {
+               height: 23vh;
+               width: 33pc;
+             }
+            .header h1 
                {
                  font-weight: 500;
                }         
